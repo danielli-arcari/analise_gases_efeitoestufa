@@ -194,7 +194,7 @@ Este projeto foi desenvolvido como atividade educacional do curso One G9 da Alur
 
 ## Autor
 
-Desenvolvido como case prático do programa One G9 da Alura, focando no desenvolvimento de habilidades em análise de dados com Python e Pandas.
+Desenvolvido como case prático do programa One G9 da Alura, focando no desenvolvimento de habilidades em análise de dados com Python e Pandas, como parte dos estudos de Danielli Arçari
 
 ## Contato e Perguntas
 
